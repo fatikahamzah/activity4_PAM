@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/PAM ANDROID STUDIO/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android Studio/SampleConstraintLayout/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2555" />
+        <entry key="..\:/Android Studio/SampleConstraintLayout/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2555" />
+        <entry key="..\:/Android Studio/SampleConstraintLayout/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/TUF GAMING/AndroidStudioProjects/SampleConstraintLayout/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/asus/Downloads/PAM_Constrain-Layout-Act2-main/PAM_Constrain-Layout-Act2-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1785" />
+        <entry key="..\:/Users/asus/Downloads/PAM_Constrain-Layout-Act2-main/PAM_Constrain-Layout-Act2-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1785" />
+        <entry key="..\:/Users/asus/Downloads/PAM_Constrain-Layout-Act2-main/PAM_Constrain-Layout-Act2-main/app/src/main/res/layout/activity_hasil2.xml" value="0.13949275362318841" />
+        <entry key="..\:/Users/asus/Downloads/PAM_Constrain-Layout-Act2-main/PAM_Constrain-Layout-Act2-main/app/src/main/res/layout/activity_kedua.xml" value="0.13949275362318841" />
+        <entry key="..\:/Users/asus/Downloads/PAM_Constrain-Layout-Act2-main/PAM_Constrain-Layout-Act2-main/app/src/main/res/layout/activity_main.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/asus/Downloads/PAM_Constrain-Layout-Act2-main/PAM_Constrain-Layout-Act2-main/app/src/main/res/layout/activity_main2.xml" value="0.22" />
       </map>
     </option>
   </component>
